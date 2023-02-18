@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/kong/jesse/lab2/Demo.java</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/kong/jesse/lab2/database.properties</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/dataaccesslayer/RecipientsDao.java</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/businesslayer/RecipientsBusinessLogic.java</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/businesslayer/ValidationException.java</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/transferobjects/RecipientsDTO.java</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/dataaccesslayer/DataSource.java</file>
+            <file>file://Mac/Home/Documents/NetBeansProjects/Kong.Jesse.Lab2/src/dataaccesslayer/RecipientsDaoImp.java</file>
+        </group>
+    </open-files>
+</project-private>
